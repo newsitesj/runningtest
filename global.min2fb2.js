@@ -1,0 +1,1 @@
+!function(a){a("#of-mobile-navigation-link, #of-url-opener-instructions").on("click",function(b){b.preventDefault(),a("html,body").animate({scrollTop:a(this.hash).offset().top},0)})}(jQuery);
